@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398841696876",
+    "project_id": "samplemessanger-60563",
+    "storage_bucket": "samplemessanger-60563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398841696876:android:3e2a764a56710376cb7e49",
+        "android_client_info": {
+          "package_name": "com.example.samplemessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398841696876-9542mfaqj52olllhfapbknrfmead0mmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeumw41pvKUOTJaf-gvDn6q5X-XASB9tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398841696876-9542mfaqj52olllhfapbknrfmead0mmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
